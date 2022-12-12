@@ -1,6 +1,6 @@
 """https://adventofcode.com/2022/day/6"""
 
-from utils import read_input
+from utils import read_input, read_example_input
 
 
 def find_first_n_distinct_characters(datastream, n=4):

@@ -2,7 +2,7 @@
 
 import re
 
-from utils import read_input
+from utils import read_input, read_example_input
 
 
 def get_sections(pair: str):

@@ -1,6 +1,6 @@
 """https://adventofcode.com/2022/day/7"""
 
-from utils import read_input
+from utils import read_input, read_example_input
 
 
 class File:
