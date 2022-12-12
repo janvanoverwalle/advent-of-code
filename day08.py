@@ -1,4 +1,4 @@
-"""https://adventofcode.com/2022/day/6"""
+"""https://adventofcode.com/2022/day/8"""
 
 from functools import reduce
 from utils import read_input, read_example_input
